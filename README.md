@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, me chamo Geovana e este é o meu perfil no GitHub 👋
 
-<!--
-**georeiss/georeiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sou estudante de Tecnologia da Informação e estou em transição de carreira para a área de TI, buscando desenvolver meus conhecimentos e colocar em prática o que venho aprendendo.
 
-Here are some ideas to get you started:
+🎓 Atualmente, estou estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Técnico em Desenvolvimento de Sistemas — SENAC
+
+Tecnólogo em Segurança da Informação — Cruzeiro do Sul Virtual
+
+🛠️ Conhecimentos e tecnologias:
+
+JavaScript e lógica de programação
+
+SQL e banco de dados relacionais
+
+Git e GitHub
+
+Fundamentos de Desenvolvimento de Sistemas
+
+📚 Aqui no GitHub, compartilho exercícios, atividades e projetos desenvolvidos durante meus estudos, registrando minha evolução e aprendendo cada vez mais sobre tecnologia e programação.
+
+🚀 Estou em constante aprendizado, aberta a novos desafios e oportunidades para crescer profissionalmente na área de Tecnologia da Informação.
