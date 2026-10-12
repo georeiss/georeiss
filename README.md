@@ -21,3 +21,5 @@ Fundamentos de Desenvolvimento de Sistemas
 📚 Aqui no GitHub, compartilho exercícios, atividades e projetos desenvolvidos durante meus estudos, registrando minha evolução e aprendendo cada vez mais sobre tecnologia e programação.
 
 🚀 Estou em constante aprendizado, aberta a novos desafios e oportunidades para crescer profissionalmente na área de Tecnologia da Informação.
+
+![snake gif](https://github.com/georeiss/georeiss/blob/output/github-contribution-grid-snake.svg)
